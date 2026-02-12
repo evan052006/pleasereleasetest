@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/evan052006/pleasereleasetest/compare/v1.0.0...v1.1.0) (2026-02-12)
+
+
+### Features
+
+* is this ignored? ([f055c90](https://github.com/evan052006/pleasereleasetest/commit/f055c90fa00caaa3e762c1632d2cea7dc953664f))
+
+
+### Bug Fixes
+
+* will this add new PR ([47790cf](https://github.com/evan052006/pleasereleasetest/commit/47790cf5965892fa9c45f8166c94771463721e45))
+
 ## 1.0.0 (2026-02-12)
 
 
